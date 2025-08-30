@@ -47,7 +47,7 @@ Hi, I'm Josmer Azocar!
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 🚀 Proyectos Destacados
+## 💻 Proyectos Destacados
 
 <table border="0" align="center">
 <tr align="center">
