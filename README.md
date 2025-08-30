@@ -47,61 +47,49 @@ Hi, I'm Josmer Azocar!
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
- ## <b> Projects I've worked in</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 🚀 Proyectos Destacados
+
+<table border="0" align="center">
+<tr align="center">
+<td width="33%" valign="top">
+  
+### 🎮 J Sonic (Multiplayer Game)
+<a href="https://github.com/josmer-azocar/Project-JSonic" target="_blank"><img src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" width="360" alt="J Sonic Preview"/></a>
 <br>
-<div align='left'>
+<p align="left">Juego multijugador 2D construido desde cero. Implementa una arquitectura cliente-servidor y sincronización de red para soportar modos de juego local y en línea.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/LibGDX-FFFFFF?style=for-the-badge&logo=libgdx&logoColor=black" alt="LibGDX"/>
+  <img src="https://img.shields.io/badge/KryoNet-blue?style=for-the-badge" alt="KryoNet"/>
+</p>
 
+</td>
+<td width="33%" valign="top">
 
-- 👇 To know more about each one `click on the image`.
-<table>
-  <tr>
-    <td style="padding-right: 15px;">
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/josmer-azocar/Project-JSonic" target="_blank">
-              <img width="360" height="210" alt="482962621-ae2db516-b573-451d-a88a-03d01227aaa2" src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center; padding-top: 5px;">
-            <p>J Sonic (Multiplayer Game): JAVA, LIBGDX, KRYONET</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td style="padding-right: 15px;">
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/josmer-azocar/Supermarket_Simulation" target="_blank">
-              <img width="360" height="210" alt="482973756-b6e3dc5b-2ae1-47a0-a159-ab3a5fa5fe33" src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center; padding-top: 5px;">
-            <p>Supermarket Simulation: C++, WinForms (.NET) </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/josmer-azocar/NexusCrawlerApp" target="_blank">
-              <img width="310" height="210" alt="image" src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center; padding-top: 5px;">
-            <p>Web Analyzer: C++, WinForms (.NET) </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+### 🛒 Simulación de Supermercado
+<a href="https://github.com/josmer-azocar/Supermarket_Simulation" target="_blank"><img src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" width="360" alt="Supermarket Sim Preview"/></a>
+<br>
+<p align="left">Simulador de operaciones de un supermercado con una GUI completa. Implementa la lógica de negocio para la gestión de colas, inventario y procesos de facturación.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge" alt="WinForms"/>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Analizador Web (NexusCrawler)
+<a href="https://github.com/josmer-azocar/NexusCrawlerApp" target="_blank"><img src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" width="360" alt="Web Analyzer Preview"/></a>
+<br>
+<p align="left">Herramienta de escritorio que analiza sitios web. Realiza crawling para extraer los enlaces, presentando los resultados en una interfaz gráfica intuitiva.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge" alt="WinForms"/>
+</p>
+
+</td>
+</tr>
+</table>
 </table>
