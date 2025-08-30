@@ -1,7 +1,8 @@
 <h1 align="center">
 Hi, I'm Josmer Azocar!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>
+  </h1>
+  
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -45,3 +46,62 @@ Hi, I'm Josmer Azocar!
 <a href="https://www.linkedin.com/in/josmer-azocar-5b8539275/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+ ## <b> Projects I've worked in</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+
+- 👇 To know more about each one `click on the image`.
+<table>
+  <tr>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josmer-azocar/Project-JSonic" target="_blank">
+              <img width="360" height="210" alt="482962621-ae2db516-b573-451d-a88a-03d01227aaa2" src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>J Sonic (Multiplayer Game): JAVA, LIBGDX, KRYONET</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josmer-azocar/Supermarket_Simulation" target="_blank">
+              <img width="360" height="210" alt="482973756-b6e3dc5b-2ae1-47a0-a159-ab3a5fa5fe33" src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>Supermarket Simulation: C++, WinForms (.NET) </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josmer-azocar/NexusCrawlerApp" target="_blank">
+              <img width="310" height="210" alt="image" src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>Web Analyzer: C++, WinForms (.NET) </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
