@@ -5,7 +5,6 @@ Hi, I'm Josmer Azocar!
   
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Jr++Software+Developer&center=true&width=380&height=45"></a>
 </p>
@@ -47,16 +46,28 @@ Hi, I'm Josmer Azocar!
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 💻 Proyectos Destacados
+## 💻 Featured Projects
 
 <table border="0" align="center">
 <tr align="center">
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### ⛽ Concurrent Gas Station Simulator
+<a href="https://github.com/josmer-azocar/Concurrent-Gas-Station-Simulator" target="_blank"><img src="https://github.com/user-attachments/assets/0421719a-fc16-42be-b763-465f0eb84254" width="360" alt="Gas Station Sim Preview"/></a>
+<br>
+<p align="left">A multithreaded simulation that models vehicle flow, using <code>mutexes</code> (pthreads) to ensure data integrity (thread-safety) in a concurrent environment.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Pthreads-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Pthreads"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
   
 ### 🎮 J Sonic (Multiplayer Game)
 <a href="https://github.com/josmer-azocar/Project-JSonic" target="_blank"><img src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" width="360" alt="J Sonic Preview"/></a>
 <br>
-<p align="left">Juego multijugador 2D construido desde cero. Implementa una arquitectura cliente-servidor y sincronización de red para soportar modos de juego local y en línea.</p>
+<p align="left">A 2D multiplayer game built from scratch. It implements a client-server architecture and network synchronization logic to support both local and online game modes.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/LibGDX-FFFFFF?style=for-the-badge&logo=libgdx&logoColor=black" alt="LibGDX"/>
@@ -64,12 +75,14 @@ Hi, I'm Josmer Azocar!
 </p>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr align="center">
+<td width="50%" valign="top">
 
-### 🛒 Simulación de Supermercado
+### 🛒 Supermarket Simulation
 <a href="https://github.com/josmer-azocar/Supermarket_Simulation" target="_blank"><img src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" width="360" alt="Supermarket Sim Preview"/></a>
 <br>
-<p align="left">Simulador de operaciones de un supermercado con una GUI completa. Implementa la lógica de negocio para la gestión de colas, inventario y procesos de facturación.</p>
+<p align="left">A GUI-based desktop application that simulates supermarket operations, implementing the business logic for queue management, inventory, and billing processes.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -77,12 +90,12 @@ Hi, I'm Josmer Azocar!
 </p>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🌐 Analizador Web (NexusCrawler)
+### 🌐 Web Analyzer (NexusCrawler)
 <a href="https://github.com/josmer-azocar/NexusCrawlerApp" target="_blank"><img src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" width="360" alt="Web Analyzer Preview"/></a>
 <br>
-<p align="left">Herramienta de escritorio que analiza sitios web. Realiza crawling para extraer los enlaces, presentando los resultados en una interfaz gráfica intuitiva.</p>
+<p align="left">A desktop tool for website analysis. It crawls sites to extract links and metadata, presenting the results in an intuitive graphical user interface (GUI).</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -91,5 +104,4 @@ Hi, I'm Josmer Azocar!
 
 </td>
 </tr>
-</table>
 </table>
