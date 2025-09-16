@@ -13,9 +13,9 @@ Hi, I'm Josmer Azocar!
 <pre>
 💻 Passionate about Backend, Concurrency & Game Logic.
 📚 Pursuing a BS in Computer Science at Universidad Nacional Experimental de Guayana (UNEG)
-🚀 My Toolkit: Java, C++, C | LibGDX (GameDev) | KryoNet (Networking) | WinForms (UI)
-🌱 Learning about clean architecture, scalable system design and mobile development.
-🚩 Exploring opportunities in backend/mobile development.
+🚀 My Toolkit: Java, C++, C, SQL | LibGDX (GameDev) | KryoNet (Networking) | WinForms (UI)
+🌱 Learning about clean architecture, scalable system design and backend development.
+🚩 Exploring opportunities in backend development.
 </pre>
 <hr>
 
@@ -34,6 +34,8 @@ Hi, I'm Josmer Azocar!
     ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 ## 📫 Connect with me
