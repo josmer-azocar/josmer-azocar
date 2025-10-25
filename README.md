@@ -66,7 +66,7 @@ Hi, I'm Josmer Azocar!
 <tr align="center">
 <td colspan="2" valign="top">
 
-### 🍃📚 StudyU Flow — AI-Powered Academic Mentor
+<h3>🍃📚 StudyU Flow — AI-Powered Academic Mentor</h3>
 <a href="https://github.com/josmer-azocar/StudyU_Flow" target="_blank"><img src="https://github.com/user-attachments/assets/9ad5483a-b433-48a1-b654-5a2df90cae5b" width="300" alt="StudyU Flow Preview"/></a>
 <br>
 <p align="left">Backend for an AI-powered academic mentor, engineered to deliver a modern and scalable user experience. I architected the complete RESTful API using <strong>Spring Boot</strong>, implemented stateless <strong>JWT</strong> authentication, and integrated a conversational assistant with <strong>Spring AI</strong>. The entire application is containerized with <strong>Docker</strong>, demonstrating a professional, deployment-ready approach.</p>
@@ -82,7 +82,7 @@ Hi, I'm Josmer Azocar!
 <tr align="center">
 <td width="50%" valign="top">
   
-### 🎮 J Sonic (Multiplayer Game)
+<h3>🎮 J Sonic (Multiplayer Game)</h3>
 <a href="https://github.com/josmer-azocar/Project-JSonic" target="_blank"><img src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" width="360" alt="J Sonic Preview"/></a>
 <br>
 <p align="left">A 2D multiplayer game built from scratch. It implements a client-server architecture and network synchronization logic to support both local and online game modes.</p>
@@ -95,7 +95,7 @@ Hi, I'm Josmer Azocar!
 </td>
 <td width="50%" valign="top">
 
-### ⛽ Concurrent Gas Station Simulator
+<h3>⛽ Concurrent Gas Station Simulator</h3>
 <a href="https://github.com/josmer-azocar/Concurrent-Gas-Station-Simulator" target="_blank"><img src="https://github.com/user-attachments/assets/0421719a-fc16-42be-b763-465f0eb84254" width="360" alt="Gas Station Sim Preview"/></a>
 <br>
 <p align="left">A multithreaded simulation that models vehicle flow, using <code>mutexes</code> (pthreads) to ensure data integrity (thread-safety) in a concurrent environment.</p>
@@ -109,7 +109,7 @@ Hi, I'm Josmer Azocar!
 <tr align="center">
 <td width="50%" valign="top">
 
-### 🛒 Supermarket Simulation
+<h3>🛒 Supermarket Simulation</h3>
 <a href="https://github.com/josmer-azocar/Supermarket_Simulation" target="_blank"><img src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" width="360" alt="Supermarket Sim Preview"/></a>
 <br>
 <p align="left">A GUI-based desktop application that simulates supermarket operations, implementing the business logic for queue management, inventory, and billing processes.</p>
@@ -122,7 +122,7 @@ Hi, I'm Josmer Azocar!
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web Analyzer (NexusCrawler)
+<h3>🌐 Web Analyzer (NexusCrawler)</h3>
 <a href="https://github.com/josmer-azocar/NexusCrawlerApp" target="_blank"><img src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" width="360" alt="Web Analyzer Preview"/></a>
 <br>
 <p align="left">A desktop tool for website analysis. It crawls sites to extract links and metadata, presenting the results in an intuitive graphical user interface (GUI).</p>
