@@ -13,7 +13,7 @@ Hi, I'm Josmer Azocar!
 <pre>
 💻 Backend SOFTWARE DEVELOPER focused on building robust systems with ☕ Java & Spring 🍃
 🎓 Strengthening my Computer Science fundamentals at Universidad Nacional Experimental de GGuayana (UNEG)
-🚀 Tech Stack: Java, Spring Boot, PostgreSQL, SQL, C/C++, Python
+🚀 Tech Stack: Java, Spring Boot, Python, PostgreSQL, SQL, C/C++
 🌱 Focusing on Clean Architecture, Scalable System Design, and RESTful API best practices
 💼 Open to opportunities in BACKEND SOFTWARE DEVELOPMENT
 </pre>
@@ -23,14 +23,16 @@ Hi, I'm Josmer Azocar!
 ## 🚀 Languages and Core Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## ⚡ Frameworks and Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 🛠️ Software and Tools
