@@ -11,7 +11,7 @@ Hi, I'm Josmer Azocar!
 <hr>
 
 <pre>
-💻 Backend SOFTWARE DEVELOPER focused on building robust systems with ☕ Java & Spring 🍃
+💻 Backend SOFTWARE DEVELOPER focused on building systems with ☕ Java & Spring 🍃 and Python 🐍
 🎓 Strengthening my Computer Science fundamentals at Universidad Nacional Experimental de Guayana (UNEG)
 🚀 Tech Stack: Java, Spring Boot, Python, PostgreSQL, SQL, C/C++
 🌱 Focusing on Clean Architecture, Scalable System Design, and RESTful API best practices
